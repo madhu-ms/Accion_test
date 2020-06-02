@@ -12,6 +12,7 @@ It is a demo project.
 ## How to Use / Configure
 - Clone the repository with git clone
 - Copy .env.example file to .env and edit database credentials there
-- Run composer install
-- Run php artisan migrate
+- install composer using  "composer install"
+- Migrate table using  "php artisan migrate"
+- start your server using "php artisan serve"
 
